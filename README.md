@@ -1,7 +1,7 @@
 # wiki2ia
 Capstone Project by Internet Archive: Entity Resolution Algorithm Matching Wikipedia Book Citations to Internet Archive Book API
 
-The purpose of this repo is to improve wikipedia book citation links - giving free access to books cited in Wikipedia with no current link and replacing links that do exist, but are broken.
+The purpose of this repo is to improve wikipedia book citation links - giving free access to books cited in Wikipedia with no current link and replacing links that do exist, but are broken. Our model is implemented in Python.
 
 example call:
 ```rb
