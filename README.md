@@ -21,6 +21,6 @@ example response:
   'input_citation': '{{cite book|last=Barthel |first=Thomas S. |title=The Eighth Land: The Polynesian Settlement of Easter Island |publisher= [[University of Hawaii]] |year=1974 |edition=1978|isbn=0824805534|url=https://archive.org/details/eighthlandpolyne0000bart}}',
   'match': True}}
 ```
-See vignette.py for an example call to Internet Archive API to return book matches given a Wikipedia book citation.
+See vignette.py for a full example call to Internet Archive API to return book matches given a Wikipedia book citation.
 
 Account and configuration instructions for Internet Archive API are found [here](https://archive.org/developers/internetarchive/).
