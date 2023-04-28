@@ -5,6 +5,17 @@ import pickle
 import numpy as np
 
 def get_match(config, cite_string, cap = 500, log_level = "info", return_dataframe = False, all_results = False):
+    '''
+    description:
+        Function to return matched results of Internet Archive API for books given a wikipedia book citation.
+    inputs:
+        config: This is a dictionary as is setup in the Internet Archive API. This dictionary contains API keys.
+        cite_string: a string of the full wikipedia book citation. Brackets included.
+        return_dataframe: The default return is a dict of results, but can return pandas dataframe depending on use case
+        all_results: The default is to return only matches, but will return all queries -matched and unmatched- if set to True.
+    output:
+        python dictionary of either each match or of all api results given function parameters. Default returns matches only.
+    '''
     
     start = time.time()
     
