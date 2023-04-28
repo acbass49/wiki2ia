@@ -9,7 +9,7 @@ After cloning the repo and opening a new python file in the new repository, here
 ```rb
 from wiki2ia import get_match
 
-my_wikipedia_book_citation_string = "{{cite book |author=Churchill, William |year=1912 |title=The Rapanui Speech and the Peopling of Southeast Polynesia |url=https://archive.org/details/easterislandrapa00churrich |url-status=live |archive-url=https://web.archive.org/web/20160404191635/https://archive.org/details/easterislandrapa00churrich |archive-date=4 April 2016}}"
+my_wikipedia_book_citation_string = "{{cite book|last=Barthel |first=Thomas S. |title=The Eighth Land: The Polynesian Settlement of Easter Island |publisher= [[University of Hawaii]] |year=1974 |edition=1978|isbn=0824805534|url=https://archive.org/details/eighthlandpolyne0000bart}}"
 
 get_match(config=config, cite_string=my_wikipedia_book_citation_string)
 ```
