@@ -3,7 +3,7 @@ Capstone Project by Internet Archive: Entity Resolution Algorithm Matching Wikip
 
 The purpose of this repo is to improve wikipedia book citation links - giving free access to books cited in Wikipedia with no current link and replacing links that do exist, but are broken. Our model is fully implemented in Python.
 
-example call:
+After cloning the repo and opening a new python file in the new repository, here is an example call:
 ```rb
 from wiki2ia import get_match
 
