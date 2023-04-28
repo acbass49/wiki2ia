@@ -164,3 +164,4 @@ cython_debug/
 
 Modeling/Test_Set_v5.csv
 Modeling/training_set_final.csv
+Modeling/golden_set.csv
