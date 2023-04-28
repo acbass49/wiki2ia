@@ -23,4 +23,6 @@ example response:
 ```
 See vignette.py for a full example call to Internet Archive API to return book matches given a Wikipedia book citation.
 
+Full report and write-up of modeling decisions and output in the [modeling folder](./Modeling/).
+
 Account and configuration instructions for Internet Archive API are found [here](https://archive.org/developers/internetarchive/).
