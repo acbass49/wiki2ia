@@ -1,6 +1,8 @@
 # wiki2ia
 Capstone Project by Internet Archive: Entity Resolution Algorithm Matching Wikipedia Book Citations to Internet Archive Book API
 
+Final write-up of decisions and modeling jupyter notebooks in the [modeling folder](./Modeling/).
+
 The purpose of this repo is to improve wikipedia book citation links - giving free access to books cited in Wikipedia with no current link and replacing links that do exist, but are broken. Our model is fully implemented in Python.
 
 After cloning the repo and opening a new python file in the new repository, here is an example call:
@@ -22,7 +24,5 @@ example response:
   'match': True}}
 ```
 See vignette.py for a full example call to Internet Archive API to return book matches given a Wikipedia book citation.
-
-Final write-up of decisions and modeling jupyter notebooks in the [modeling folder](./Modeling/).
 
 Account and configuration instructions for Internet Archive API are found [here](https://archive.org/developers/internetarchive/).
