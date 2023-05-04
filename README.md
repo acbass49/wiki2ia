@@ -1,5 +1,5 @@
 # wiki2ia
-Capstone Project by Internet Archive: Entity Resolution Algorithm Matching Wikipedia Book Citations to Internet Archive Book API
+Capstone Project sponsored by Internet Archive of an Entity Resolution Algorithm Matching Wikipedia Book Citations to Internet Archive Book API
 
 Final write-up of decisions and modeling jupyter notebooks in the [modeling folder](./Modeling/).
 
