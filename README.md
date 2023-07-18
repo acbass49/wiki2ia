@@ -1,7 +1,5 @@
 # wiki2ia
-Capstone Project sponsored by Internet Archive of an Entity Resolution Algorithm Matching Wikipedia Book Citations to Internet Archive Book API
-
-Final write-up of decisions and modeling jupyter notebooks in the [modeling folder](./Modeling/).
+Capstone Project sponsored by Internet Archive of an Entity Resolution Algorithm Matching Wikipedia Book Citations to Internet Archive Book API. See final write-up of challenges, decisions, and analysis [found here](https://alexbass.me/projects/internet_archive/Final_Writeup.pdf). Modeling jupyter notebooks in the [modeling folder](./Modeling/). 
 
 The purpose of this repo is to improve wikipedia book citation links - giving free access to books cited in Wikipedia with no current link and replacing links that do exist, but are broken. Our model is fully implemented in Python.
 
